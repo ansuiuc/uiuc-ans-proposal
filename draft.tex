@@ -1,13 +1,31 @@
 \documentclass[12pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{soul}
+% \usepackage{background}
 \usepackage{float}
+\usepackage[top=2cm, bottom=2cm, outer=2cm, inner=2cm]{geometry}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
 \graphicspath{{./images/}}
+
+% \backgroundsetup{
+% scale=1,
+% angle=-90,
+% opacity=.4,  %% adjust
+% contents={\includegraphics[width=\paperwidth,height=\paperheight]{earth1.png}}
+% }
 
 \begin{document}
 
 \begin{titlepage}
+\AddToShipoutPictureBG*{\includegraphics[angle=90, width=\paperwidth,height=\paperheight]{earth1.png}};
+
+
    \begin{center}
+
        \vspace*{1cm}
  
        \textbf{Saving the World One Atom at a Time}
@@ -22,21 +40,100 @@
        \vfill
        \vspace{0.8cm}
  
-       \includegraphics[width=0.4\textwidth]{ans_sc_logo2.png}
+       \includegraphics[width=0.4\textwidth]{ans_sc_logo3.png}
    \end{center}
 \end{titlepage}
 
+\clearpage
+\tableofcontents
+\newpage
+
+
+% ===============================================================================================
+% ===============================================================================================
+% ============================================THEME==============================================
+% ===============================================================================================
+% ===============================================================================================
 \section{Theme}
-$\Huge{Saving the World One Atom at a Time}$\\
+\subsection{Letter from the chairs}
 There are many challenges facing the world today and some have been designated existential threats to humanity. Young people today will witness the growing toll of anthropogenic climate change. As students, obstacles at the scale of the world climate crisis appear daunting and overwhelming. We believe that many solutions will come from the nuclear sciences. The ANS student conference is an opportunity for students and professionals to come together and share advances in critical technology and research, dedicated to solving these problems. Whether the problem is solving the world’s energy needs, developing technology that will take us to the stars, or curing cancer, nuclear, plasma, and radiological engineering will be at the center of those endeavors. Our goal is to inspire and motivate students in nuclear, plasma, and radiological engineering fields to tackle big problems. Saving the world one atom at a time reflects the fact that nuclear science is a powerful force in dealing with grand challenge problems. This theme also honors the individual, atomic, contributions from students, researchers, and professionals, in the field of nuclear engineering, that are essential to progress. This conference is about science and it is about the people that make the science possible. Students will hear from visionary speakers and leaders of the nuclear science community and come away with optimism for the future; knowing that they are saving the world one atom at a time.\\
 The University of Illinois at Urbana-Champaign chapter of ANS would be honored to host the 2021 student conference. We hope to create an atmosphere that will galvanize students and professionals for the exciting future of nuclear engineering
 
+
+\newpage
 \section{Letter from the Chairs}
 
-\section{About UIUC}
+
+% ===============================================================================================
+% ===============================================================================================
+% ========================================About UIUC=============================================
+% ===============================================================================================
+% ===============================================================================================
+
+\newpage
+\section{Champaign-Urbana and UIUC}
+\subsection*{About Champaign-Urbana}
+Champaign-Urbana (CU) is a close-knit community filled with music, culture, and food. While Campustown, the neighborhood immediately surrounding campus,  is an important part of the atmosphere, there is plenty to do off campus. Relax in one of the outdoor restaurants downtown or walking through the various gardens and parks around town. The culture in Champaign is very rich as a result of many annual festivals such as the CU Pride Parade, the Ellnora guitar festival, and the Pygmalion festival. The Krannert Center for the Performing Arts is also a world-renowned theater that has hosted groups from all genres like the New York Philharmonic, the Russian National Ballet, and Sonny Rollins.
+
+\subsubsection*{Accessibility}
+Myriad festivals and sporting events on campus draw many people to Champaign-Urbana at varying times of the year, which means hotels are not hard to find. A large number of these hotels are located around downtown Champaign and the Eastern side of campus, making transportation easy. There is also a small airport, Willard Airport, just 20 minutes from campus that regularly has flights to and from the Chicago O’Hare and Dallas Ft Worth airports. Finally, there are several reliable bus services that make frequent trips from Champaign-Urbana to O’Hare and the Chicagoland area.
+
+\subsubsection*{Weather}
+With an average high temperature of 65$^\circ$F and an average low temperature of 40$^\circ$F , April in Champaign is a gorgeous month of dwindling winter weather as summer begins to round the corner. Hlding a conference during this time would be the perfect way to showcase our beautiful city.
+
+\subsection*{About the University of Illinois}
+Founded in 1867, the University of Illinois at Urbana-Champaign (UIUC) has cultivated a long history of significant scientific discoveries and contributions. The theory of superconductivity, the invention of the transistor, the discovery of archaea, the fourth domain of life, and the first web browser are just some of the many breakthroughs from UIUC. Established in 1876, the famous Morrow Plots became the first research crop field at a university and is still used today. Attendees will also be familiar with Blue Waters, one of the world’s fastest supercomputers. 
+The UIUC Grainger College of Engineering has had sixteen Nobel Laureates in physics. Including John Bardeen, the only scientist to ever win the award twice. It also offers 15 different majors to more than 9,100 undergraduate and 3,400 graduate students. Of its twelve ranked majors, nine are ranked among the top 10 in the nation, and six of which remain ranked among the top 5 in their degree. Overall, the College of Engineering in Urbana-Champaign ranks sixth among the nation’s best undergraduate engineering programs. With more than 250 degrees for undergraduates and graduates and a multitude of first-class research facilities and resource, UIUC gives its 45,000 students the ability to succeed.\\
+Today, the University of Illinois at Urbana-Champaign attracts visitors from throughout the state by offering a variety of valuable public attractions. UIUC maintains four public museums: the Spurlock Museum, containing 54,000 cultural artifacts from around the world; the Illinois Natural History Survey, has more than 9.5 million biologic specimens in its collection; the Sousa Archives and Center for American Music, provides shows and education to students and the public; and the Krannert Art Museum, offers fine arts and education. More than 470,000 square feet of recreational space is occupied by other facilities including an ice arena, climbing wall, swimming pools, parks, sports fields, parks, and outdoor adventure venues. 
+
+\subsection*{UIUC ANS Student Chapter (ANS-UIUC)}
+The ANS-UIUC maintains and develops a cohesive community of students in nuclear engineering. It also engages in education and outreach programs to teach members of the surrounding community about nuclear science. Membership is currently around 70-80 students and has been steadily growing. The chapter works to host events catering to nuclear, plasma, and radiological concentrations. It also makes professional development a large part of member involvement. ANS-UIUC has historically been one of the best represented institutions at the annual student conference and is a tradition this chapter is eager to uphold. 
+
+% Group picture from the 2019 kick off barbeque.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=12cm]{ans_uiuc_group.jpg}
+  \caption{Members of ANS-UIUC at the 2019 Kick Off Barbeque.}
+\end{figure}
+
+% Picture of attendees to the 2019 ANS Student Conference
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=12cm]{ans_conf_19.jpg}
+  \caption{Members of ANS-UIUC at the 2019 Student Conference at VCU.}
+\end{figure}
+% ===============================================================================================
+% ===============================================================================================
+% =====================================Conference Logistics======================================
+% ===============================================================================================
+% ===============================================================================================
+
+\newpage
 \section{Conference Logistics}
+
+% ===============================================================================================
+% ===============================================================================================
+% ======================================Program Logistics========================================
+% ===============================================================================================
+% ===============================================================================================
+\newpage
 \section{Program Logistics}
+
+% ===============================================================================================
+% ===============================================================================================
+% ====================================Conference Management======================================
+% ===============================================================================================
+% ===============================================================================================
+\newpage
 \section{Conference Management}
+
+% ===============================================================================================
+% ===============================================================================================
+% ======================================Conference Budget========================================
+% ===============================================================================================
+% ===============================================================================================
+
+\newpage
 \section{Conference Budget}
 
 
