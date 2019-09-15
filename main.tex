@@ -1,32 +1,60 @@
 \documentclass[12pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{soul}
+\usepackage{xcolor}
+% \usepackage{background}
 \usepackage{float}
+\usepackage[top=2cm, bottom=2cm, outer=2cm, inner=2cm]{geometry}
+\setcounter{tocdepth}{3}
+% \setcounter{secnumdepth}{3}
+
 \graphicspath{{./images/}}
+
+% \backgroundsetup{
+% scale=1,
+% angle=-90,
+% opacity=.4,  %% adjust
+% contents={\includegraphics[width=\paperwidth,height=\paperheight]{earth1.png}}
+% }
 
 \begin{document}
 
 \begin{titlepage}
+\AddToShipoutPictureBG*{\includegraphics[angle=90, width=\paperwidth,height=\paperheight]{earth1.png}};
+
+
    \begin{center}
+
        \vspace*{1cm}
  
-       \textbf{Saving the World One Atom at a Time}
+       \Huge\color{white}\textbf{Saving the World One Atom at a Time}
  
        \vspace{0.5cm}
        Nuclear, Plasma, and Radiological Engineering
  
        \vspace{1.5cm}
  
-       \textbf{Presented by ANS at the University of Illinois Urbana-Champaign}
+       \Large\textbf{Presented by ANS at the University of Illinois Urbana-Champaign}
  
        \vfill
        \vspace{0.8cm}
  
-       \includegraphics[width=0.4\textwidth]{ans_sc_logo2.png}
+       \includegraphics[width=0.4\textwidth]{ans_sc_logo3.png}
    \end{center}
 \end{titlepage}
 
+\clearpage
+\newpage
+
+[Letter from the Chairs goes here!]
 \input{letter}
+
+\newpage
+\tableofcontents
+\newpage
+
 \input{theme}
 \input{uiuc}
 \input{conflog}
