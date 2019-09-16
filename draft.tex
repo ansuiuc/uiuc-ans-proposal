@@ -1,9 +1,17 @@
-\documentclass[12pt, letterpaper]{article}
+\documentclass[11pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{eso-pic}
 \usepackage{soul}
 \usepackage{xcolor}
+
+\usepackage{fancyhdr}
+% \usepackage{pagecounting}
+% \usepackage[dvips]{color}
+
+\newcommand{\illinoislogo}{\includegraphics[height=0.5in]{images/illinoislogo.png}}
+\newcommand{\anslogo}{\hspace{-4mm}\includegraphics[height=0.5in]{images/ansuiuc.png}}
+\newcommand{\anssite}{ans.npre.illinois.edu}
 % \usepackage{background}
 \usepackage{float}
 \usepackage[top=2cm, bottom=2cm, outer=2cm, inner=2cm]{geometry}
@@ -58,6 +66,10 @@
 
 \clearpage
 \newpage
+
+\pagestyle{fancy}
+\lhead{\anslogo}
+\rhead{\illinoislogo}
 
 [Letter from the Chairs goes here!]
 
