@@ -1,5 +1,7 @@
 Potential speakers at the 2021 Conference
 
+## Nuclear energy
+
 ### Rachel Slaybaugh
 
 Prof. Slaybaugh's research is based in numerical methods for neutron transport with an emphasis on supercomputing. She applies these methods to reactor design, shielding, and nuclear security and nonproliferation. Prof. Slaybaugh teaches undergraduate and graduate courses in numerical methods for neutron transport and in nuclear reactor theory. She is also involved in teaching software carpentry skills to scientists and engineers. Slaybaugh was a key founder of the nuclear innovation bootcamp, which seeks to train students and professionals in skills essential to innovation in nuclear energy while executing team projects. Finally, Slaybaugh has served as a Program Director at ARPA-E, developing and running their first fission energy programs. (from her website)
@@ -16,13 +18,20 @@ Jim has many years of experience working in a variety of scientific areas. Now h
 Writer and Nuclear activist. 
 
 
-### Andrew P. Zwicker (PPPL)
-
-Plasma physics, science literacy, public outreach at PPPL. 
-
 ### Todd Allen
 
 Professor Emeritus at Wisconsin
 
 
 ### Rita Baranwal
+
+
+## Plasma Engineering
+
+
+### Andrew P. Zwicker (PPPL)
+
+Plasma physics, science literacy, public outreach at PPPL. 
+
+### Fatima Ebrahimi (PPPL) 
+Expert on theory and computational magnetohydrodynamics (MHD) related to fusion energy and astrophysics. She is a program committee member for the U.S. Magnetic Fusion Research Strategic Divisions. 
