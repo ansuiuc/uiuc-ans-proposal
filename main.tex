@@ -1,6 +1,7 @@
-\documentclass[11pt, letterpaper]{article}
+\documentclass[10pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{wrapfig}
 \usepackage{eso-pic}
 \usepackage{soul}
 \usepackage{xcolor}
@@ -42,30 +43,36 @@
 
 
 \begin{document}
-
+% ======================================================================================================
+% DO NOT EDIT THIS SECTION
+% ======================================================================================================
 \begin{titlepage}
 \AddToShipoutPictureBG*{\includegraphics[angle=90, width=\paperwidth,height=\paperheight]{earth1.png}};
 
-
    \begin{center}
 
-       \vspace*{1cm}
+       \vspace*{0.25cm}
  
        \Huge\color{white}\textbf{Saving the World One Atom at a Time}
  
-       \vspace{0.5cm}
+       \vspace{0.3cm}
        Nuclear, Plasma, and Radiological Engineering
  
-       \vspace{1.5cm}
+       \vfill
+       \vspace{7.5cm}
+ 
+       \includegraphics[width=0.4\textwidth]{ans_sc_logo3.png}
+
+       \vspace{1cm}
  
        \Large\textbf{Presented by ANS at the University of Illinois Urbana-Champaign}
  
-       \vfill
-       \vspace{0.8cm}
- 
-       \includegraphics[width=0.4\textwidth]{ans_sc_logo3.png}
+
    \end{center}
 \end{titlepage}
+% ======================================================================================================
+% ======================================================================================================
+% ======================================================================================================
 
 \clearpage
 \newpage
@@ -74,7 +81,7 @@
 \lhead{\anslogo}
 \rhead{\illinoislogo}
 
-[Letter from the Chairs goes here!]
+\vfill
 \input{letter}
 
 \newpage
@@ -82,10 +89,15 @@
 \newpage
 
 \input{theme}
+\newpage
 \input{uiuc}
+\newpage
 \input{conflog}
+\newpage
 \input{proglog}
+\newpage
 \input{management}
+\newpage
 \input{budget}
 
 
