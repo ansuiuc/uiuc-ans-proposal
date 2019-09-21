@@ -1,26 +1,148 @@
 \section{Conference Management}
 
+% ===============================================
+% This is the hierarchy breakdown
+% ===============================================
+\begin{center}
+	\begin{tikzpicture}[
+		chair/.style={rectangle, text centered, draw,fill=blue!20, execute at begin node={\begin{varwidth}{9em}},
+   		execute at end node={\end{varwidth}}},
+   		committee/.style={rectangle,draw,fill=green!40, text centered, execute at begin node={\begin{varwidth}{7em}},
+   		execute at end node={\end{varwidth}}},
+   		coordinator/.style={rectangle,draw,fill=red!30, text centered, execute at begin node={\begin{varwidth}{7em}},
+   		execute at end node={\end{varwidth}}},
+		grandchild/.style={grow=down,xshift=1em,anchor=west,
+		edge from parent path={(\tikzparentnode.south) |- (\tikzchildnode.west)}, execute at begin node={\begin{varwidth}{8em}},
+   		execute at end node={\end{varwidth}}},
+		first/.style={level distance=12ex},
+		second/.style={level distance=24ex},
+		third/.style={level distance=36ex},
+		level 1/.style={sibling distance=11em}]
+	    % Parents
+	    \coordinate
+	      child[grow=left] {node[chair,anchor=east]{General Co-Chair \\ (Sam Dotson)}}
+	      child[grow=right] {node[chair,anchor=west]{Technical Co-Chair\\ (Jeremy Mettler)}}
+	      child[grow=down,level distance=3ex]
+	    [edge from parent fork down]
+	    % Children and grandchildren
+	    child{node[committee] {Non-Technical Subcommittee}
+	      child[grandchild,first] {node[chair]{Logistics Chair}}
+	      child[grandchild,second] {node[coordinator]{Hotels and Transportation}}
+	      child[grandchild,third] {node[coordinator] {Hospitality and Catering}}}
+	    child {node[committee] {Communications Subcommittee}
+	      child[grandchild, first] {node[chair] {Publications Chair}}
+	      child[grandchild, second] {node[coordinator]{Media}}
+	      child[grandchild, third] {node[coordinator] {Program}}}
+	    child{node[committee] {Financial Subcommittee}
+	      child[grandchild,first] {node[chair]{Financial Chair}}
+	      child[grandchild,second] {node[coordinator]{Registration}}
+	      child[grandchild,third] {node[coordinator]{Sponsorship}}}
+	    child {node[committee]{Technical Subcommittee}
+	      child[grandchild,first] {node[chair]{Sessions Chair}}
+	      child[grandchild,second] {node[coordinator]{Workshops}}
+	      child[grandchild,third] {node[coordinator]{Career Fair}}};
+	\end{tikzpicture}
+\end{center}
+% ===============================================
+% ===============================================
+% ===============================================
 
-Executive Board Candidates:
 
-Program Coordinator:
-\begin{enumerate}
-\item Brady Moran
-\end{enumerate}
+\subsection{Position Responsibilities}
+The general and technical chairs are responsible for setting up major milestones and 
+ensuring that those milestones are met. Together they oversee all four subcommittees but 
+are each primarily in charge of two. They will serve as the primary contacts between subcommittee
+chairs and the faculty as well as professionals. The two co-chairs have the final word on all 
+conference decisions.
 
-Media Coordinator
-\begin{enumerate}
-\item Nathan Ryan
-\end{enumerate}
+\begin{itemize}
+	\item $\large\textbf{\textit{General Co-Chair}}$\\
+	In addition to the responsibilities outlined above, the General Co-Chair primarily oversees the
+	Non-technical and Publications Subcommittees. Works with the Technical Co-Chair to plan full committee
+	meetings and completes any remaining tasks to ensure that milestones are met.
+	\item $\large\textbf{\textit{Technical Co-Chair}}$\\
+	In addition to the responsibilities outlined above, the Technical Co-Chair primarily oversees the
+	Technical and Financial Subcommittees. Works with the General Co-Chair to plan full committee
+	meetings and completes any remaining tasks to ensure that milestones are met.
+	\item $\textbf{Non-Technical Subcommittee}$\\
+	The Non-Technical Subcommittee oversees, arranges, and executes all actions related to hospitality, transportation, special events, and non-technical workshops and panels. This committee keeps the theme of the conference in mind when organizing all events. They ensure that the conference runs smoothly.
+	\begin{itemize}
+		\item[$\circ$] $\textbf{Logistics Chair (Gavin Davis?)}$\\
+		The Logistics Chair is in charge of planning all tours and non-technical workshops and panels. Organizes speakers during dinners
+		Also responsible for keeping track of subcommittee and reporting to the General and Technical Co-Chairs.
+		\item[$\circ$] $\textbf{Hotels and Transportation Coordinator}$\\
+		Coordinates with ANS National to negotiate room rates and room blocks for hotels. Reserves busses for the 
+		necessary times and events. Works with the Hospitality and Catering Coordinator and the Logistics Chair.
+		\item[$\circ$] $\textbf{Hospitality and Catering Coordinator}$\\
+		Responsible for planning and organizing all catered meals for the conference. that includes contacting the catering services, reserving the venues where meals are held, and making sure the venues are staffed.
+	\end{itemize}
+	\item $\textbf{Financial Subcommittee}$\\
+	The Financial Subcommittee oversees, arranges, and executes all actions related to banking, sponsorship, registration, reimbursement, budgeting, and monetary exchanges. This committee works closely with the General and Technical Co-Chairs.
+	\begin{itemize}
+		\item[$\circ$] $\textbf{Financial Chair}$\\
+		Sets the budget for the whole committee and ensures that the committee does not exceed the budget. Manages the ANS Student Committee account and collects receipts. Updates and maintains the budget as required. Keeps track of subcommittee progress and reports to the General and Technical Co-Chairs. 
+		\item[$\circ$] $\textbf{Registration Coordinator (Jasmine Dinari?)}$
+		Handles the registration for professional and student attendees. Communicates the number of attendees to the Program Coordinator. 
+		\item[$\circ$] $\textbf{Sponsorship Coordinator}$\\
+		Assists the Financial Chair with matters involving sponsorship as well as working closely with the registration coordinator and the General and Technical Co-Chairs.
+	\end{itemize}
+	\item $\textbf{Technical Subcommittee}$\\
+	The Technical Subcommittee works with the Technical Co-Chair to process student abstracts and set up 
+	technical workshops, panels and sessions. 
+	\begin{itemize}
+		\item[$\circ$] $\textbf{Sessions Chair (Gwen Chee?)}$\\
+		Responsible for organizing presentation, poster sessions, and technical
+		panels. Also responsible for ensuring that judges understand the judging criteria, and organizes the award ceremony.
+		Keeps track of subcommittee progress and reports to the General and Technical Co-chairs.
+		\item[$\circ$] $\textbf{Workshops Coordinator (Zach Jeckell?)}$\\
+		Organizes workshops locations, times, staffing, costs, supplies, student enrollment
+		and any other tasks required to have successful workshops. Also assists the Sessions Chair when needed.
+		\item[$\circ$] $\textbf{Career Fair Coordinator (Rierson Johnson?)}$\\
+		Oversees staffing and support for the career fair as well as working with the Sponsorship
+		Coordinator to ensure a successful career fair. Also assists the Sessions Chair when needed.
+	\end{itemize}
+	\item $\textbf{Communications Subcommittee}$
+	The Communications Subcommittee is in charge of public relations and communicating status updates with attendees.
+	\begin{itemize}
+		\item[$\circ$] $\textbf{Publications Chair (Nate Reid?)}$\\
+		The Publications Chair is primarily responsible for publishing and organizing the student abstracts, as well as 
+		helping the media coordinator maintain a social media presence. 
+		\item[$\circ$] $\textbf{Media Coordinator (Nathan Ryan?)}$\\
+		The Media Coordinator is reponsible for designing the conference website, constantly updating social media presence,
+		and obtains information from other members of the planning committee for the website. 
+		\item[$\circ$] $\textbf{Program Coordinator (Brady Moran?)}$\\
+		The Program Coordinator is in charge of setting the program for the conference, minimizing event overlap, and coordinating
+		with the Publications Chair and Media Coordinator.
+	\end{itemize}
+\end{itemize}
 
-Registration Coordinator
-\begin{enumerate}
-\item Jasmine (?)
-\end{enumerate}
+\subsection{Planning Committee Biographies}
+[All committee members must plan on attending the upcoming student conference!]
 
-\subsection{Planning Committee and Bios}
+
 \subsection{Conflict Resolution}
+
+Committee members should hold professionalism at the forefront of their composure in order to avoid and resolve issues amicably without the involvement of higher powers. As such, members are encouraged to settle conflicts without invoking this protocol. If an issue arises that immediately presents itself as overwhelming, the scope of the issue exceeds an individual’s ability to handle it, or the issue imposes certain implications that jeopardizes the mission of the planning committee, members should not hesitate to refer to this section. In the event of a conflict between members of the planning committee, a document for decision-making and
+conflict resolution has been drafted and approved by the general committee. All General Committee members
+are expected to abide by the resolution. Key points of the resolution are as follows:
+\begin{enumerate}
+	\item Subcommittees are encouraged to operate as autonomous and democratic as possible; however, the General
+	Co-Chairs reserve the rights to make all final decisions. If the Co-Chairs cannot agree, the faculty advisor will be involved.
+	\item Conflicts between committee members are to be resolved outside of the committee. Should this begin to
+	affect the work of these members, the General Co-Chairs may intervene.
+	\item Any cases of misconduct or negligence will be handled by the General Co-Chairs as necessary.
+	\item For extreme cases of misconduct or negligence, separate steps for the removal and replacement of a
+	member are outlined for general members, Subcommittee Chairs, and General Co-Chairs. These include
+	a discussion with the offending member, consultation of the Faculty Advisor, and a hearing with the
+	General Committee to decide if removal is necessary.
+\end{enumerate}
+
 \subsection{Staffing Requirements}
+
+
+% ===============================================
+% Milestones
+% ===============================================
 \subsection{Milestones}
 
 \begin{center}
