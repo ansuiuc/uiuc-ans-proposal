@@ -1,15 +1,17 @@
 \documentclass[10pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{subcaption}
 \usepackage{wrapfig}
 \usepackage{eso-pic}
 \usepackage{soul}
 \usepackage{xcolor}
+\usepackage[parfill]{parskip}
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{gfsdidot} % Use the GFS Didot font: http://www.tug.dk/FontCatalogue/gfsdidot/
 \usepackage{microtype} % Improves typography
-
+\usepackage[toc,page]{appendix} % creates an appendix
 \usepackage{fancyhdr}
 % \usepackage{pagecounting}
 % \usepackage[dvips]{color}
@@ -101,6 +103,17 @@
 \input{management}
 \newpage
 \input{budget}
+\newpage
 
+% Appendices
+\appendix
+\input{conflict}
+\input{judging}
+\input{schedule}
+\input{building}
+\input{locations}
+\input{staffreq}
+\input{facultyletter}
+\input{petition}
 
 \end{document}
