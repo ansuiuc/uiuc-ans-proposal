@@ -3,57 +3,101 @@
 % ===============================================
 % This is the hierarchy breakdown
 % ===============================================
+% \begin{center}
+% 	\begin{tikzpicture}[
+% 		chair/.style={rectangle, text centered, draw,fill=blue!20, execute at begin node={\begin{varwidth}{9em}},
+%    		execute at end node={\end{varwidth}}},
+%    		committee/.style={rectangle,draw,fill=green!40, text centered, execute at begin node={\begin{varwidth}{7em}},
+%    		execute at end node={\end{varwidth}}},
+%    		coordinator/.style={rectangle,draw,fill=red!30, text centered, execute at begin node={\begin{varwidth}{7em}},
+%    		execute at end node={\end{varwidth}}},
+% 		grandchild/.style={grow=down,xshift=1em,anchor=west,
+% 		edge from parent path={(\tikzparentnode.south) |- (\tikzchildnode.west)}, execute at begin node={\begin{varwidth}{8em}},
+%    		execute at end node={\end{varwidth}}},
+% 		first/.style={level distance=12ex},
+% 		second/.style={level distance=24ex},
+% 		third/.style={level distance=36ex},
+% 		level 1/.style={sibling distance=11em}]
+% 	    % Parents
+% 	    \coordinate
+% 	      child[grow=left] {node[chair,anchor=east]{General Co-Chair \\ (Sam Dotson)}}
+% 	      child[grow=right] {node[chair,anchor=west]{Technical Co-Chair\\ (Jeremy Mettler)}}
+% 	      child[grow=down,level distance=3ex]
+% 	    [edge from parent fork down]
+% 	    % Children and grandchildren
+% 	    child{node[committee] {Non-Technical Subcommittee}
+% 	      child[grandchild,first] {node[chair]{Logistics Chair}}
+% 	      child[grandchild,second] {node[coordinator]{Hotels and Transportation}}
+% 	      child[grandchild,third] {node[coordinator] {Hospitality and Catering}}}
+% 	    child {node[committee] {Communications Subcommittee}
+% 	      child[grandchild, first] {node[chair] {Publications Chair}}
+% 	      child[grandchild, second] {node[coordinator]{Media}}
+% 	      child[grandchild, third] {node[coordinator] {Program}}}
+% 	    child{node[committee] {Financial Subcommittee}
+% 	      child[grandchild,first] {node[chair]{Financial Chair}}
+% 	      child[grandchild,second] {node[coordinator]{Registration}}
+% 	      child[grandchild,third] {node[coordinator]{Sponsorship}}}
+% 	    child {node[committee]{Technical Subcommittee}
+% 	      child[grandchild,first] {node[chair]{Sessions Chair}}
+% 	      child[grandchild,second] {node[coordinator]{Workshops}}
+% 	      child[grandchild,third] {node[coordinator]{Career Fair}}};
+% 	\end{tikzpicture}
+% \end{center}
 \begin{center}
-	\begin{tikzpicture}[
-		chair/.style={rectangle, text centered, draw,fill=blue!20, execute at begin node={\begin{varwidth}{9em}},
-   		execute at end node={\end{varwidth}}},
-   		committee/.style={rectangle,draw,fill=green!40, text centered, execute at begin node={\begin{varwidth}{7em}},
-   		execute at end node={\end{varwidth}}},
-   		coordinator/.style={rectangle,draw,fill=red!30, text centered, execute at begin node={\begin{varwidth}{7em}},
-   		execute at end node={\end{varwidth}}},
-		grandchild/.style={grow=down,xshift=1em,anchor=west,
-		edge from parent path={(\tikzparentnode.south) |- (\tikzchildnode.west)}, execute at begin node={\begin{varwidth}{8em}},
-   		execute at end node={\end{varwidth}}},
-		first/.style={level distance=12ex},
-		second/.style={level distance=24ex},
-		third/.style={level distance=36ex},
-		level 1/.style={sibling distance=11em}]
-	    % Parents
-	    \coordinate
-	      child[grow=left] {node[chair,anchor=east]{General Co-Chair \\ (Sam Dotson)}}
-	      child[grow=right] {node[chair,anchor=west]{Technical Co-Chair\\ (Jeremy Mettler)}}
-	      child[grow=down,level distance=3ex]
-	    [edge from parent fork down]
-	    % Children and grandchildren
-	    child{node[committee] {Non-Technical Subcommittee}
-	      child[grandchild,first] {node[chair]{Logistics Chair}}
-	      child[grandchild,second] {node[coordinator]{Hotels and Transportation}}
-	      child[grandchild,third] {node[coordinator] {Hospitality and Catering}}}
-	    child {node[committee] {Communications Subcommittee}
-	      child[grandchild, first] {node[chair] {Publications Chair}}
-	      child[grandchild, second] {node[coordinator]{Media}}
-	      child[grandchild, third] {node[coordinator] {Program}}}
-	    child{node[committee] {Financial Subcommittee}
-	      child[grandchild,first] {node[chair]{Financial Chair}}
-	      child[grandchild,second] {node[coordinator]{Registration}}
-	      child[grandchild,third] {node[coordinator]{Sponsorship}}}
-	    child {node[committee]{Technical Subcommittee}
-	      child[grandchild,first] {node[chair]{Sessions Chair}}
-	      child[grandchild,second] {node[coordinator]{Workshops}}
-	      child[grandchild,third] {node[coordinator]{Career Fair}}};
+	\begin{tikzpicture}
+		\node (gen chair) [chair] {General Co-Chair (Sam Dotson)};
+		\node (tech chair) [chair, right of = gen chair, xshift = 5cm] {Technical Co-Chair (Jeremy Mettler)};
+		\node (div chair) [chair, left of = gen chair, xshift = -5cm] {Diversity Co-Chair (Nate Reid)};
+
+		\node (log chair) [director, below of = gen chair, xshift = -2.5cm, yshift = -2cm] {Logistics Chair (Natalie Gaughan)};
+		\node (med coord) [coordinator, below of = gen chair, xshift = 1cm, yshift = -4cm] {Media Coordinator (Nathan Ryan)};
+		\node (prog coord) [coordinator, below of = log chair, yshift = -2cm] {Program Coordinator (Dilan K.)};
+		\node (hat coord) [coordinator, below of = prog coord, yshift = -2cm] {Hotels and Transport (Gavin Davis)};
+		\node (hoa coord) [coordinator, below of = hat coord, yshift = -2cm] {Hospitality and Accomodations (Brady Moran)};
+		\node (tours coord) [coordinator, below of = hoa coord, yshift = -2cm] {Tours Coordinator (Anna Balla)};
+
+
+		\node (tsc chair) [director, below of = tech chair, xshift = 2cm, yshift = -2cm] {Technical Sub-Committee Chair (Gwen Chee)};
+		\node (work coord) [coordinator, below of = tsc chair, yshift = -2cm] {Workshops Coordinator (Roberto Fairhurst)};
+		\node (sesh coord) [coordinator, below of = work coord, yshift = -2cm] {Sessions Coordinator (Zach Jeckell)};
+		\node (cf coord) [coordinator, below of = sesh coord, yshift = -2cm] {Career Fair Coordinator (Greg Golba)};
+		
+		\node (fin chair) [director, below of = tech chair, xshift = -2cm, yshift = -2cm] {Financial Chair (Jack Stahl)};
+		\node (spon coord) [coordinator, below of = fin chair, yshift = -2cm] {Sponsorships Coordinator (Jimmy Shehee)};
+		\node (reg coord) [coordinator, below of = spon coord, yshift = -2cm] {Registration Coordinator (Jasmine Dinari)};
+
+		\draw  (gen chair) -- (tech chair);
+		\draw  (gen chair) -- (div chair);
+		\draw  (gen chair) -- (log chair);
+		\draw  (log chair) -- (prog coord);
+		\draw  (prog coord) -- (hat coord);
+		\draw  (hat coord) -- (hoa coord);
+		\draw  (hoa coord) -- (tours coord);
+		\draw  (gen chair) -- (med coord);
+		\draw  (tech chair) -- (fin chair);
+		\draw  (gen chair) -- (fin chair);
+		\draw  (tech chair) -- (tsc chair);
+		\draw  (fin chair) -- (spon coord);
+		\draw  (spon coord) -- (reg coord);
+		\draw  (tsc chair) -- (work coord);
+		\draw  (work coord) -- (sesh coord);
+		\draw  (sesh coord) -- (cf coord);
+		\draw  (div chair) -- (log chair);
+
 	\end{tikzpicture}
 \end{center}
+
 % ===============================================
 % ===============================================
 % ===============================================
+
+
+
 
 
 \subsection{Position Responsibilities}
 The three co-chairs are responsible for setting up major milestones and 
-ensuring that those milestones are met. Together they oversee all three subcommittees but 
-are each primarily in charge of one. They will serve as the primary contacts between subcommittee
-chairs and the faculty as well as professionals. The co-chairs have the final word on all 
-conference decisions. They serve as the face of the conference and 
+ensuring that those milestones are met. Together they oversee all three subcommittees. They will serve as the primary contacts between subcommittee chairs and the faculty as well as professionals. The co-chairs have the final word on all conference decisions. They serve as the faces of the conference.
 
 \begin{itemize}
 	\item $\large\textbf{\textit{General Co-Chair}}$\\
@@ -63,7 +107,7 @@ conference decisions. They serve as the face of the conference and
 	\item $\large\textbf{\textit{Technical Co-Chair}}$\\
 	In addition to the responsibilities outlined above, the Technical Co-Chair primarily oversees the
 	Technical Subcommittee. Works with the General Co-Chair to plan full committee meetings and completes any remaining tasks to ensure that milestones are met.
-	\item $\large\textbf{\textit{Financial Co-Chair}}$\\
+	\item $\large\textbf{\textit{Diversity Co-Chair}}$\\
 	In addition to the responsibilities outlined above, the Financial Co-Chair primarily oversees the Financial Subcommittee. The Financial Co-Chair is also responsible for interacting with businesses, the university, and ANS National for sponsorship needs. He completes any remaining tasks to ensure that milestones are met.
 
 	\item $\textbf{Non-Technical Subcommittee}$\\
@@ -85,7 +129,7 @@ conference decisions. They serve as the face of the conference and
 	\item $\textbf{Financial Subcommittee}$\\
 	The Financial Subcommittee oversees, arranges, and executes all actions related to banking, sponsorship, registration, reimbursement, budgeting, and monetary exchanges. This committee works closely with the General and Technical Co-Chairs.
 	\begin{itemize}
-		\item[$\circ$] $\textbf{Account Coordinator}$\\
+		\item[$\circ$] $\textbf{Financial Chair}$\\
 		Manages the ANS Planning Committee account with Busey Bank and ANS National. The account coordinator is also responsible for keeping track of receipts, setting a budget for the committee, keeps track of all transactions, 
 		\item[$\circ$] $\textbf{Registration Coordinator }$
 		Handles the registration for professional and student attendees. Communicates the number of attendees to the Program Coordinator. 
