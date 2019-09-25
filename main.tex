@@ -2,6 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{subcaption}
+\usepackage{lipsum}
 \usepackage{wrapfig}
 \usepackage{eso-pic}
 \usepackage{soul}
@@ -41,10 +42,10 @@
 \usetikzlibrary{trees}
 \usetikzlibrary{shapes.geometric, arrows}
 
-\tikzstyle{chair} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black,thick, fill=blue!50, execute at begin node={\begin{varwidth}{3cm}},execute at end node={\end{varwidth}}]
-\tikzstyle{director} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=orange!70, execute at begin node={\begin{varwidth}{3cm}},execute at end node={\end{varwidth}}]
-\tikzstyle{coordinator} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=white!30, execute at begin node={\begin{varwidth}{3cm}},execute at end node={\end{varwidth}}]
-\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{chair} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black,thick, fill=blue!50, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
+\tikzstyle{director} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=orange!70, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
+\tikzstyle{coordinator} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=white!30, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
+% \tikzstyle{arrow} = [thick,--,>=stealth]
 
 
 \begin{document}
@@ -100,13 +101,14 @@
 \newpage
 \input{proglog}
 \newpage
-\input{socials}
-\newpage
 \input{management}
+\newpage
+\input{website}
 \newpage
 \input{budget}
 \newpage
-
+\input{liability}
+\newpage
 % Appendices
 \appendix
 \input{conflict}
