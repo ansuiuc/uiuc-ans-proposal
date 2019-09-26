@@ -1,65 +1,92 @@
 \contentsline {section}{\numberline {1}Letter from the Chairs}{1}
-\contentsline {section}{\numberline {2}Saving the World One Atom at a Time}{3}
-\contentsline {section}{\numberline {3}Welcome to Illinois}{4}
-\contentsline {subsection}{\numberline {3.1}Champaign-Urbana in a Nutshell}{4}
-\contentsline {subsubsection}{\numberline {3.1.1}Accessibility}{4}
-\contentsline {subsubsection}{\numberline {3.1.2}Weather}{4}
-\contentsline {subsection}{\numberline {3.2}University of Illinois at Urbana-Champaign: Learning \& Labor}{4}
-\contentsline {subsection}{\numberline {3.3}UIUC ANS Student Chapter (ANS-UIUC)}{5}
-\contentsline {subsection}{\numberline {3.4}Research at UIUC}{6}
-\contentsline {subsubsection}{\numberline {3.4.1}Nuclear Power}{6}
-\contentsline {subsubsection}{\numberline {3.4.2}Plasma Physics and Fusion Science}{6}
-\contentsline {subsubsection}{\numberline {3.4.3}Radiological Science}{7}
-\contentsline {subsubsection}{\numberline {3.4.4}Reliability and Risk Analysis}{7}
-\contentsline {subsubsection}{\numberline {3.4.5}Materials Science}{7}
-\contentsline {subsubsection}{\numberline {3.4.6}NPRE Research Groups and Laboratories}{7}
-\contentsline {section}{\numberline {4}Conference Logistics}{9}
-\contentsline {subsection}{\numberline {4.1}Date Selection}{9}
-\contentsline {subsection}{\numberline {4.2}Conference Facilities}{9}
-\contentsline {subsection}{\numberline {4.3}Conference Contingency Plan}{9}
-\contentsline {subsection}{\numberline {4.4}Hotels and Accomodations}{12}
-\contentsline {subsection}{\numberline {4.5}Travel and Transportation}{13}
-\contentsline {subsubsection}{\numberline {4.5.1}Getting to Champaign}{13}
-\contentsline {subsubsection}{\numberline {4.5.2}Getting to the Conference}{14}
-\contentsline {section}{\numberline {5}Conference Program}{15}
-\contentsline {subsection}{\numberline {5.1}Potential Speakers}{15}
-\contentsline {subsubsection}{\numberline {5.1.1}Rachel Slaybaugh, UC Berkeley}{15}
-\contentsline {subsubsection}{\numberline {5.1.2}Suzanne Hobbs Baker}{15}
-\contentsline {subsubsection}{\numberline {5.1.3}Todd Allen, UW Madison}{15}
-\contentsline {subsubsection}{\numberline {5.1.4}Rita Baranwal, DOE Nuclear Energy}{15}
-\contentsline {subsubsection}{\numberline {5.1.5}Jim Conca, Forbes}{16}
-\contentsline {subsubsection}{\numberline {5.1.6}Brian Jurczyk, CEO Starfire Industries}{16}
-\contentsline {subsubsection}{\numberline {5.1.7}Ross Radel, CEO Phoenix, LLC}{16}
-\contentsline {subsubsection}{\numberline {5.1.8}Greg Piefer, CEO SHINE}{16}
-\contentsline {subsection}{\numberline {5.2}Saving the World Panel Series}{17}
-\contentsline {subsubsection}{\numberline {5.2.1}Critical Conversations: Microreactors}{17}
-\contentsline {subsubsection}{\numberline {5.2.2}Applications for Plasma Processing}{17}
-\contentsline {subsubsection}{\numberline {5.2.3}Fusion: Materials for the Future}{17}
-\contentsline {subsubsection}{\numberline {5.2.4}Nuclear Policy and Legislation}{17}
-\contentsline {subsubsection}{\numberline {5.2.5}Radiological Techonology for a Healthier and Safer Future}{18}
-\contentsline {subsubsection}{\numberline {5.2.6}Science is People: Conducting Inclusive Research}{18}
-\contentsline {subsubsection}{\numberline {5.2.7}Talking To Non-Scientists}{18}
-\contentsline {subsubsection}{\numberline {5.2.8}How to Host a Conference}{18}
-\contentsline {subsection}{\numberline {5.3}Workshops}{18}
-\contentsline {subsubsection}{\numberline {5.3.1}Scientific Storytelling}{18}
-\contentsline {subsubsection}{\numberline {5.3.2}Building Your Network}{19}
-\contentsline {subsubsection}{\numberline {5.3.3}MOOSE Workshop}{19}
-\contentsline {subsubsection}{\numberline {5.3.4}PyNE and PyRK Workshop}{19}
-\contentsline {subsection}{\numberline {5.4}Tours}{19}
-\contentsline {subsubsection}{\numberline {5.4.1}Technical Tours}{19}
-\contentsline {subsubsection}{\numberline {5.4.2}Non-Technical Tours}{20}
-\contentsline {section}{\numberline {6}Conference Management}{23}
-\contentsline {subsection}{\numberline {6.1}Position Responsibilities}{23}
-\contentsline {subsection}{\numberline {6.2}Planning Committee Biographies}{25}
-\contentsline {subsection}{\numberline {6.3}Conflict Resolution}{25}
-\contentsline {subsection}{\numberline {6.4}Staffing Requirements}{26}
-\contentsline {subsection}{\numberline {6.5}Milestones}{26}
-\contentsline {section}{\numberline {7}Budget}{29}
-\contentsline {section}{\numberline {A}Appendix: Conflict Calendar}{30}
-\contentsline {section}{\numberline {B}Appendix: Judging Forms}{30}
-\contentsline {section}{\numberline {C}Appendix: Graphical Schedule}{30}
-\contentsline {section}{\numberline {D}Appendix: Building Layout}{30}
-\contentsline {section}{\numberline {E}Appendix: Campus Map of Locations}{30}
-\contentsline {section}{\numberline {F}Appendix: Staffing Requirements}{30}
-\contentsline {section}{\numberline {G}Appendix: Letters of Support}{30}
-\contentsline {section}{\numberline {H}Appendix: Student and Faculty Support}{30}
+\contentsline {section}{\numberline {2}Saving the World One Atom at a Time}{4}
+\contentsline {section}{\numberline {3}Welcome to Illinois}{5}
+\contentsline {subsection}{\numberline {3.1}Champaign-Urbana in a Nutshell}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Accessibility}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Weather}{5}
+\contentsline {subsection}{\numberline {3.2}University of Illinois at Urbana-Champaign: Learning \& Labor}{5}
+\contentsline {subsection}{\numberline {3.3}UIUC ANS Student Chapter (ANS-UIUC)}{6}
+\contentsline {subsection}{\numberline {3.4}Research at UIUC}{7}
+\contentsline {subsubsection}{\numberline {3.4.1}Nuclear Power}{7}
+\contentsline {subsubsection}{\numberline {3.4.2}Plasma Physics and Fusion Science}{7}
+\contentsline {subsubsection}{\numberline {3.4.3}Radiological Science}{8}
+\contentsline {subsubsection}{\numberline {3.4.4}Reliability and Risk Analysis}{8}
+\contentsline {subsubsection}{\numberline {3.4.5}Materials Science}{8}
+\contentsline {subsubsection}{\numberline {3.4.6}NPRE Research Groups and Laboratories}{8}
+\contentsline {section}{\numberline {4}Conference Logistics}{10}
+\contentsline {subsection}{\numberline {4.1}Date Selection}{10}
+\contentsline {subsection}{\numberline {4.2}Conference Facilities}{10}
+\contentsline {subsection}{\numberline {4.3}Conference Contingency Plan}{10}
+\contentsline {subsection}{\numberline {4.4}Hotels and Accommodations}{13}
+\contentsline {subsection}{\numberline {4.5}Travel and Transportation}{14}
+\contentsline {subsubsection}{\numberline {4.5.1}Getting to Champaign}{14}
+\contentsline {subsubsection}{\numberline {4.5.2}Getting to the Conference}{15}
+\contentsline {section}{\numberline {5}Conference Program}{16}
+\contentsline {subsection}{\numberline {5.1}Potential Speakers}{16}
+\contentsline {subsubsection}{\numberline {5.1.1}Rachel Slaybaugh, UC Berkeley}{16}
+\contentsline {subsubsection}{\numberline {5.1.2}Suzanne Hobbs Baker}{16}
+\contentsline {subsubsection}{\numberline {5.1.3}Todd Allen, UW Madison}{16}
+\contentsline {subsubsection}{\numberline {5.1.4}Rita Baranwal, DOE Nuclear Energy}{17}
+\contentsline {subsubsection}{\numberline {5.1.5}Jim Conca, Forbes}{17}
+\contentsline {subsubsection}{\numberline {5.1.6}Phi Nguyen, Former Vice President and Director of Engineering at Intel}{18}
+\contentsline {subsubsection}{\numberline {5.1.7}William Magwood?}{18}
+\contentsline {subsubsection}{\numberline {5.1.8}Ross Radel, CEO Phoenix, LLC}{18}
+\contentsline {subsubsection}{\numberline {5.1.9}Greg Piefer, CEO SHINE}{19}
+\contentsline {subsection}{\numberline {5.2}Saving the World Panel Series}{19}
+\contentsline {subsubsection}{\numberline {5.2.1}Critical Conversations: Microreactors}{19}
+\contentsline {subsubsection}{\numberline {5.2.2}Applications for Plasma Processing}{20}
+\contentsline {subsubsection}{\numberline {5.2.3}Fusion: Materials for the Future}{20}
+\contentsline {subsubsection}{\numberline {5.2.4}Nuclear Policy and Legislation}{20}
+\contentsline {subsubsection}{\numberline {5.2.5}Radiological Techonology for a Healthier and Safer Future}{20}
+\contentsline {subsubsection}{\numberline {5.2.6}Science is People: Conducting Inclusive Research}{20}
+\contentsline {subsubsection}{\numberline {5.2.7}Talking To Non-Scientists}{21}
+\contentsline {subsubsection}{\numberline {5.2.8}How to Host a Conference}{21}
+\contentsline {subsection}{\numberline {5.3}Workshops}{21}
+\contentsline {subsubsection}{\numberline {5.3.1}Scientific Storytelling}{21}
+\contentsline {subsubsection}{\numberline {5.3.2}Building Your Network}{21}
+\contentsline {subsubsection}{\numberline {5.3.3}MOOSE Workshop}{21}
+\contentsline {subsubsection}{\numberline {5.3.4}PyNE and PyRK Workshop}{22}
+\contentsline {subsection}{\numberline {5.4}Tours}{22}
+\contentsline {subsubsection}{\numberline {5.4.1}Technical Tours}{22}
+\contentsline {subsubsection}{\numberline {5.4.2}Non-Technical Tours}{23}
+\contentsline {subsection}{\numberline {5.5}Socials}{23}
+\contentsline {subsubsection}{\numberline {5.5.1}Illini Union Rec Room Lockout}{23}
+\contentsline {subsubsection}{\numberline {5.5.2}77 Club at Memorial Stadium}{24}
+\contentsline {subsubsection}{\numberline {5.5.3}Pour Bros. Taproom in Downtown Champaign}{24}
+\contentsline {subsubsection}{\numberline {5.5.4}Under 21 Social: University of Illinois Ice Arena}{25}
+\contentsline {section}{\numberline {6}Conference Management}{26}
+\contentsline {subsection}{\numberline {6.1}Position Responsibilities}{27}
+\contentsline {subsection}{\numberline {6.2}Planning Committee Biographies}{29}
+\contentsline {subsection}{\numberline {6.3}Conflict Resolution}{35}
+\contentsline {subsection}{\numberline {6.4}Staffing Requirements}{35}
+\contentsline {subsection}{\numberline {6.5}Milestones}{35}
+\contentsline {section}{\numberline {7}Website and Social Media}{38}
+\contentsline {subsection}{\numberline {7.1}Website}{38}
+\contentsline {subsection}{\numberline {7.2}Social Media}{38}
+\contentsline {section}{\numberline {8}Budget}{39}
+\contentsline {subsection}{\numberline {8.1}Revenue}{39}
+\contentsline {subsection}{\numberline {8.2}Expenses}{39}
+\contentsline {subsection}{\numberline {8.3}Sponsorship Plan}{39}
+\contentsline {subsection}{\numberline {8.4}Banking}{39}
+\contentsline {subsubsection}{\numberline {8.4.1}Financial Oversight}{39}
+\contentsline {subsection}{\numberline {8.5}Financial Contingency}{39}
+\contentsline {subsection}{\numberline {8.6}Cost of Attendance and Student Reimbursement}{39}
+\contentsline {section}{\numberline {9}Liability}{40}
+\contentsline {subsection}{\numberline {9.1}Hotels}{40}
+\contentsline {subsection}{\numberline {9.2}Transportation}{40}
+\contentsline {subsubsection}{\numberline {9.2.1}Peoria Charter}{40}
+\contentsline {subsubsection}{\numberline {9.2.2}UIUC Carpool}{40}
+\contentsline {subsubsection}{\numberline {9.2.3}CU-MTD}{40}
+\contentsline {subsection}{\numberline {9.3}Dining}{40}
+\contentsline {subsection}{\numberline {9.4}Bank Account and Expenses}{40}
+\contentsline {subsection}{\numberline {9.5}Release of Information}{41}
+\contentsline {subsection}{\numberline {9.6}Disabilities}{41}
+\contentsline {subsection}{\numberline {9.7}Alcohol}{41}
+\contentsline {section}{\numberline {A}Appendix: Conflict Calendar}{42}
+\contentsline {section}{\numberline {B}Appendix: Judging Forms}{42}
+\contentsline {section}{\numberline {C}Appendix: Graphical Schedule}{42}
+\contentsline {section}{\numberline {D}Appendix: Building Layout}{42}
+\contentsline {section}{\numberline {E}Appendix: Campus Map of Locations}{42}
+\contentsline {section}{\numberline {F}Appendix: Staffing Requirements}{42}
+\contentsline {section}{\numberline {G}Appendix: Letters of Support}{42}
+\contentsline {section}{\numberline {H}Appendix: Student and Faculty Support}{42}
