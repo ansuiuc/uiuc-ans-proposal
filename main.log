@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.9.25)  25 SEP 2019 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.9.25)  27 SEP 2019 00:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -953,13 +953,41 @@ s
 \f@nch@O@olf=\skip64
 \f@nch@O@orf=\skip65
 )
+(C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2019/09/21 v0.5n Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count195
+\calc@Bcount=\count196
+\calc@Adimen=\dimen158
+\calc@Bdimen=\dimen159
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count197
+\calc@Cskip=\skip68
+)
+\AM@pagewidth=\dimen160
+\AM@pageheight=\dimen161
+
+(C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2019/09/21 v0.5n Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box50
+\AM@global@opts=\toks27
+\AM@toc@title=\toks28
+\c@AM@survey=\count198
+\AM@templatesizebox=\box51
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count195
-\float@exts=\toks27
-\float@box=\box50
-\@float@everytoks=\toks28
-\@floatcapt=\box51
+\c@float@type=\count199
+\float@exts=\toks29
+\float@box=\box52
+\@float@everytoks=\toks30
+\@floatcapt=\box53
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -971,18 +999,18 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen158
-\Gm@wd@mp=\dimen159
-\Gm@odd@mp=\dimen160
-\Gm@even@mp=\dimen161
-\Gm@layoutwidth=\dimen162
-\Gm@layoutheight=\dimen163
-\Gm@layouthoffset=\dimen164
-\Gm@layoutvoffset=\dimen165
-\Gm@dimlist=\toks29
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
+\Gm@dimlist=\toks31
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\environ\environ.sty
@@ -991,28 +1019,28 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks30
+\@envbody=\toks32
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box52
-\sift@deathcycles=\count199
-\@vwid@loff=\dimen166
-\@vwid@roff=\dimen167
+\@vwid@box=\box54
+\sift@deathcycles=\count269
+\@vwid@loff=\dimen170
+\@vwid@roff=\dimen171
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon.tex
-\pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen168
-\pgfutil@tempdimb=\dimen169
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen172
+\pgfutil@tempdimb=\dimen173
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon-lists.tex))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
 tex.def
-\pgfutil@abb=\box53
+\pgfutil@abb=\box55
  (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -1033,33 +1061,33 @@ Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
 de.tex
-\pgfkeys@pathtoks=\toks32
-\pgfkeys@temptoks=\toks33
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks34
+\pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen170
-\pgf@y=\dimen171
-\pgf@xa=\dimen172
-\pgf@ya=\dimen173
-\pgf@xb=\dimen174
-\pgf@yb=\dimen175
-\pgf@xc=\dimen176
-\pgf@yc=\dimen177
-\pgf@xd=\dimen178
-\pgf@yd=\dimen179
+\pgf@x=\dimen174
+\pgf@y=\dimen175
+\pgf@xa=\dimen176
+\pgf@ya=\dimen177
+\pgf@xb=\dimen178
+\pgf@yb=\dimen179
+\pgf@xc=\dimen180
+\pgf@yc=\dimen181
+\pgf@xd=\dimen182
+\pgf@yd=\dimen183
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count266
-\c@pgf@countb=\count267
-\c@pgf@countc=\count268
-\c@pgf@countd=\count269
-\t@pgf@toka=\toks35
-\t@pgf@tokb=\toks36
-\t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count270
+\c@pgf@counta=\count270
+\c@pgf@countb=\count271
+\c@pgf@countc=\count272
+\c@pgf@countd=\count273
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count274
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
@@ -1077,8 +1105,8 @@ File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
 ftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count271
-\pgfsyssoftpath@bigbuffer@items=\count272
+\pgfsyssoftpath@smallbuffer@items=\count275
+\pgfsyssoftpath@bigbuffer@items=\count276
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
 otocol.code.tex
@@ -1096,12 +1124,12 @@ e.tex
 e.tex)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
 ode.tex
-\pgfmath@dimen=\dimen180
-\pgfmath@count=\count273
-\pgfmath@box=\box54
-\pgfmath@toks=\toks38
-\pgfmath@stack@operand=\toks39
-\pgfmath@stack@operation=\toks40
+\pgfmath@dimen=\dimen184
+\pgfmath@count=\count277
+\pgfmath@box=\box56
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
 s.code.tex
@@ -1123,59 +1151,59 @@ s.misc.code.tex)
 s.integerarithmetics.code.tex)))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
 de.tex
-\c@pgfmathroundto@lastzeros=\count274
+\c@pgfmathroundto@lastzeros=\count278
 ))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfint.code.tex
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
 ints.code.tex
 File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen181
-\pgf@picmaxx=\dimen182
-\pgf@picminy=\dimen183
-\pgf@picmaxy=\dimen184
-\pgf@pathminx=\dimen185
-\pgf@pathmaxx=\dimen186
-\pgf@pathminy=\dimen187
-\pgf@pathmaxy=\dimen188
-\pgf@xx=\dimen189
-\pgf@xy=\dimen190
-\pgf@yx=\dimen191
-\pgf@yy=\dimen192
-\pgf@zx=\dimen193
-\pgf@zy=\dimen194
+\pgf@picminx=\dimen185
+\pgf@picmaxx=\dimen186
+\pgf@picminy=\dimen187
+\pgf@picmaxy=\dimen188
+\pgf@pathminx=\dimen189
+\pgf@pathmaxx=\dimen190
+\pgf@pathminy=\dimen191
+\pgf@pathmaxy=\dimen192
+\pgf@xx=\dimen193
+\pgf@xy=\dimen194
+\pgf@yx=\dimen195
+\pgf@yy=\dimen196
+\pgf@zx=\dimen197
+\pgf@zy=\dimen198
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen195
-\pgf@path@lasty=\dimen196
+\pgf@path@lastx=\dimen199
+\pgf@path@lasty=\dimen256
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thusage.code.tex
 File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen197
-\pgf@shorten@start@additional=\dimen198
+\pgf@shorten@end@additional=\dimen257
+\pgf@shorten@start@additional=\dimen258
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
 opes.code.tex
 File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count275
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count279
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
 aphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen199
+\pgflinewidth=\dimen259
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
 ansformations.code.tex
 File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen256
-\pgf@pt@y=\dimen257
-\pgf@pt@temp=\dimen258
+\pgf@pt@x=\dimen260
+\pgf@pt@y=\dimen261
+\pgf@pt@temp=\dimen262
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
 ick.code.tex
@@ -1192,14 +1220,14 @@ File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
 rows.code.tex
 File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen259
+\pgfarrowsep=\dimen263
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
 ade.code.tex
 File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen260
-\pgf@sys@shading@range@num=\count276
-\pgf@shadingcount=\count277
+\pgf@max=\dimen264
+\pgf@sys@shading@range@num=\count280
+\pgf@shadingcount=\count281
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
 age.code.tex
@@ -1208,7 +1236,7 @@ File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
 ternal.code.tex
 File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfexternal@startupbox=\box58
+\pgfexternal@startupbox=\box60
 ))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
 yers.code.tex
@@ -1229,7 +1257,7 @@ File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
 pes.code.tex
 File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfnodeparttextbox=\box59
+\pgfnodeparttextbox=\box61
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
 t.code.tex
@@ -1238,8 +1266,8 @@ File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
 version-0-65.sty
 Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen261
-\pgf@nodesepend=\dimen262
+\pgf@nodesepstart=\dimen265
+\pgf@nodesepend=\dimen266
 )
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
 version-1-18.sty
@@ -1258,10 +1286,10 @@ Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
 x)
-\pgffor@iter=\dimen263
-\pgffor@skip=\dimen264
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@iter=\dimen267
+\pgffor@skip=\dimen268
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
 ))
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
 ikz.code.tex
@@ -1270,34 +1298,34 @@ Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
 plothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count278
-\pgfplotmarksize=\dimen265
+\pgf@plot@mark@count=\count282
+\pgfplotmarksize=\dimen269
 )
-\tikz@lastx=\dimen266
-\tikz@lasty=\dimen267
-\tikz@lastxsaved=\dimen268
-\tikz@lastysaved=\dimen269
-\tikz@lastmovetox=\dimen270
-\tikz@lastmovetoy=\dimen271
-\tikzleveldistance=\dimen272
-\tikzsiblingdistance=\dimen273
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count279
-\tikznumberofchildren=\count280
-\tikznumberofcurrentchild=\count281
-\tikz@fig@count=\count282
+\tikz@lastx=\dimen270
+\tikz@lasty=\dimen271
+\tikz@lastxsaved=\dimen272
+\tikz@lastysaved=\dimen273
+\tikz@lastmovetox=\dimen274
+\tikz@lastmovetoy=\dimen275
+\tikzleveldistance=\dimen276
+\tikzsiblingdistance=\dimen277
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count283
+\tikznumberofchildren=\count284
+\tikznumberofcurrentchild=\count285
+\tikz@fig@count=\count286
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
 rix.code.tex
 File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count283
-\pgfmatrixcurrentcolumn=\count284
-\pgf@matrix@numberofcolumns=\count285
+\pgfmatrixcurrentrow=\count287
+\pgfmatrixcurrentcolumn=\count288
+\pgf@matrix@numberofcolumns=\count289
 )
-\tikz@expandcount=\count286
+\tikz@expandcount=\count290
 
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarytopaths.code.tex
@@ -1322,7 +1350,7 @@ File: tikzlibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
 arrows.code.tex
 File: pgflibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\arrowsize=\dimen274
+\arrowsize=\dimen278
 )) (main.aux)
 \openout1 = `main.aux'.
 
@@ -1348,17 +1376,17 @@ File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\gfsdidot\ot1udidot.fd)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen275
-\scratchbox=\box64
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen276
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count291
+\scratchdimen=\dimen279
+\scratchbox=\box66
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen280
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks46
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1410,8 +1438,8 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box65
-LaTeX Info: Redefining \microtypecontext on input line 51.
+\AtBeginShipoutBox=\box67
+LaTeX Info: Redefining \microtypecontext on input line 52.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1426,6 +1454,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1464,46 +1500,70 @@ ABD: EveryShipout initializing macros
 <./images/ans_sc_logo3.png, id=4, 504.88625pt x 498.86375pt>
 File: ./images/ans_sc_logo3.png Graphic file (type png)
 <use ./images/ans_sc_logo3.png>
-Package pdftex.def Info: ./images/ans_sc_logo3.png  used on input line 70. on i
-nput line 70.
+Package pdftex.def Info: ./images/ans_sc_logo3.png  used on input line 71. on i
+nput line 71.
 Package pdftex.def Info: Requested size: 200.19054pt x 197.80641pt on input lin
-e 70.
+e 71.
 <./images/earth1.png, id=6, 2307.62125pt x 2992.17876pt>
 File: ./images/earth1.png Graphic file (type png)
 <use ./images/earth1.png>
-Package pdftex.def Info: ./images/earth1.png  used on input line 78. on input l
-ine 78.
+Package pdftex.def Info: ./images/earth1.png  used on input line 79. on input l
+ine 79.
 Package pdftex.def Info: Requested size: 2307.61563pt x 2992.1715pt on input li
-ne 78.
+ne 79.
  [1
 
 {C:/Users/reidm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/ea
 rth1.png> <./images/ans_sc_logo3.png>]
-(letter.tex)
-<images/ansuiuc.png, id=14, 436.63126pt x 116.435pt>
-File: images/ansuiuc.png Graphic file (type png)
-<use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 92. on input li
-ne 92.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 9
-2.
-<images/illinoislogo.png, id=15, 196.735pt x 257.96375pt>
-File: images/illinoislogo.png Graphic file (type png)
-<use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 92. on inp
-ut line 92.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 92
-.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 39.73503pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
+<./documents/chair_letter.pdf, id=14, pagebox=cropbox, 614.295pt x 794.97pt>
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf>
+Package pdftex.def Info: ./documents/chair_letter.pdf  used on input line 94. o
+n input line 94.
+Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
+e 94.
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf>
+Package pdftex.def Info: ./documents/chair_letter.pdf  used on input line 94. o
+n input line 94.
+Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
+e 94.
+<./documents/chair_letter.pdf, id=17, page=1, pagebox=cropbox, 614.295pt x 794.
+97pt>
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf, page 1>
+Package pdftex.def Info: ./documents/chair_letter.pdf , page1 used on input lin
+e 94. on input line 94.
+Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
+e 94.
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf, page 1>
+Package pdftex.def Info: ./documents/chair_letter.pdf , page1 used on input lin
+e 94. on input line 94.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 94.
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf, page 1>
+Package pdftex.def Info: ./documents/chair_letter.pdf , page1 used on input lin
+e 94. on input line 94.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 94.
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf, page 1>
+Package pdftex.def Info: ./documents/chair_letter.pdf , page1 used on input lin
+e 94. on input line 94.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 94.
+File: ./documents/chair_letter.pdf Graphic file (type pdf)
+<use ./documents/chair_letter.pdf, page 1>
+Package pdftex.def Info: ./documents/chair_letter.pdf , page1 used on input lin
+e 94. on input line 94.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 94.
 
 [1
 
- <./images/ansuiuc.png> <./images/illinoislogo.png>] (main.toc
+ <./documents/chair_letter.pdf>] (main.toc
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\gfsdidot\omludidot.fd)
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pxfonts\ot1pxr.fd
 File: ot1pxr.fd 2000/12/14 v1.0
@@ -1523,34 +1583,42 @@ File: utxsyb.fd 2000/12/14 v1.0
 (C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\pxfonts\upxsyc.fd
 File: upxsyc.fd 2000/12/14 v1.0
 )
+<images/ansuiuc.png, id=40, 436.63126pt x 116.435pt>
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 51. on input li
-ne 51.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 52. on input li
+ne 52.
 Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 5
-1.
+2.
+<images/illinoislogo.png, id=41, 196.735pt x 257.96375pt>
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 51. on inp
-ut line 51.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 51
+Package pdftex.def Info: images/illinoislogo.png  used on input line 52. on inp
+ut line 52.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 52
 .
 
-[2])
+
+Package Fancyhdr Warning: \headheight is too small (25.0pt): 
+Make it at least 39.73503pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2 <./images/ansuiuc.png> <./images/illinoislogo.png>])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 94. on input li
-ne 94.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 98. on input li
+ne 98.
 Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 9
-4.
+8.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 94. on inp
-ut line 94.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 94
+Package pdftex.def Info: images/illinoislogo.png  used on input line 98. on inp
+ut line 98.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 98
 .
  [3] (theme.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
@@ -1560,16 +1628,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 )
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 97. on input li
-ne 97.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 9
-7.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 101. on input l
+ine 101.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
+01.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 97. on inp
-ut line 97.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 97
-.
+Package pdftex.def Info: images/illinoislogo.png  used on input line 101. on in
+put line 101.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
+1.
  [4] (uiuc.tex
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
@@ -1584,14 +1652,14 @@ ut line 22.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 22
 .
  [5]
-<./images/ans_uiuc_group.jpg, id=34, 2055.68pt x 1541.76pt>
+<./images/ans_uiuc_group.jpg, id=57, 2055.68pt x 1541.76pt>
 File: ./images/ans_uiuc_group.jpg Graphic file (type jpg)
 <use ./images/ans_uiuc_group.jpg>
 Package pdftex.def Info: ./images/ans_uiuc_group.jpg  used on input line 29. on
  input line 29.
 Package pdftex.def Info: Requested size: 256.0748pt x 192.0373pt on input line 
 29.
-<./images/ans_conf_19.jpg, id=35, 4063.18pt x 3047.385pt>
+<./images/ans_conf_19.jpg, id=58, 4063.18pt x 3047.385pt>
 File: ./images/ans_conf_19.jpg Graphic file (type jpg)
 <use ./images/ans_conf_19.jpg>
 Package pdftex.def Info: ./images/ans_conf_19.jpg  used on input line 36. on in
@@ -1641,16 +1709,16 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 70
 [8])
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 99. on input li
-ne 99.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 9
-9.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 103. on input l
+ine 103.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
+03.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 99. on inp
-ut line 99.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 99
-.
+Package pdftex.def Info: images/illinoislogo.png  used on input line 103. on in
+put line 103.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
+3.
  [9] (conflog.tex
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
@@ -1661,7 +1729,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-<./images/ncsa_front.jpg, id=51, 869.2475pt x 239.89626pt>
+<./images/ncsa_front.jpg, id=74, 869.2475pt x 239.89626pt>
 File: ./images/ncsa_front.jpg Graphic file (type jpg)
 <use ./images/ncsa_front.jpg>
 Package pdftex.def Info: ./images/ncsa_front.jpg  used on input line 48. on inp
@@ -1690,14 +1758,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-<./images/beckman.jpg, id=56, 833.1125pt x 381.425pt>
+<./images/beckman.jpg, id=79, 833.1125pt x 381.425pt>
 File: ./images/beckman.jpg Graphic file (type jpg)
 <use ./images/beckman.jpg>
 Package pdftex.def Info: ./images/beckman.jpg  used on input line 58. on input 
 line 58.
 Package pdftex.def Info: Requested size: 400.38872pt x 183.3089pt on input line
  58.
-<./images/campus_map.png, id=57, 684.5575pt x 827.09pt>
+<./images/campus_map.png, id=80, 684.5575pt x 827.09pt>
 File: ./images/campus_map.png Graphic file (type png)
 <use ./images/campus_map.png>
 Package pdftex.def Info: ./images/campus_map.png  used on input line 65. on inp
@@ -1738,14 +1806,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-<./images/marriott_room1.jpeg, id=66, 356.33125pt x 142.5325pt>
+<./images/marriott_room1.jpeg, id=89, 356.33125pt x 142.5325pt>
 File: ./images/marriott_room1.jpeg Graphic file (type jpg)
 <use ./images/marriott_room1.jpeg>
 Package pdftex.def Info: ./images/marriott_room1.jpeg  used on input line 87. o
 n input line 87.
 Package pdftex.def Info: Requested size: 225.21626pt x 90.08519pt on input line
  87.
-<./images/marriott_room2.jpeg, id=67, 276.03125pt x 183.68625pt>
+<./images/marriott_room2.jpeg, id=90, 276.03125pt x 183.68625pt>
 File: ./images/marriott_room2.jpeg Graphic file (type jpg)
 <use ./images/marriott_room2.jpeg>
 Package pdftex.def Info: ./images/marriott_room2.jpeg  used on input line 91. o
@@ -1794,18 +1862,18 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 16
 [14])
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 101. on input l
-ine 101.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 105. on input l
+ine 105.
 Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
-01.
+05.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 101. on in
-put line 101.
+Package pdftex.def Info: images/illinoislogo.png  used on input line 105. on in
+put line 105.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
-1.
+5.
  [15] (proglog.tex
-<./images/speaker-0.jpg, id=77, 1003.75pt x 1204.5pt>
+<./images/speaker-0.jpg, id=100, 1003.75pt x 1204.5pt>
 File: ./images/speaker-0.jpg Graphic file (type jpg)
 <use ./images/speaker-0.jpg>
 Package pdftex.def Info: ./images/speaker-0.jpg  used on input line 11. on inpu
@@ -1817,7 +1885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-<./images/speaker-1.jpeg, id=78, 1003.75pt x 1204.5pt>
+<./images/speaker-1.jpeg, id=101, 1003.75pt x 1204.5pt>
 File: ./images/speaker-1.jpeg Graphic file (type jpg)
 <use ./images/speaker-1.jpeg>
 Package pdftex.def Info: ./images/speaker-1.jpeg  used on input line 21. on inp
@@ -1829,7 +1897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-<./images/speaker-6.jpeg, id=79, 1003.75pt x 1204.5pt>
+<./images/speaker-6.jpeg, id=102, 1003.75pt x 1204.5pt>
 File: ./images/speaker-6.jpeg Graphic file (type jpg)
 <use ./images/speaker-6.jpeg>
 Package pdftex.def Info: ./images/speaker-6.jpeg  used on input line 32. on inp
@@ -1858,7 +1926,7 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 37
 Package wrapfig Warning: Collision between wrapping environments on input line 
 40.
 
-<./images/speaker-5.jpg, id=83, 1003.75pt x 1204.5pt>
+<./images/speaker-5.jpg, id=106, 1003.75pt x 1204.5pt>
 File: ./images/speaker-5.jpg Graphic file (type jpg)
 <use ./images/speaker-5.jpg>
 Package pdftex.def Info: ./images/speaker-5.jpg  used on input line 43. on inpu
@@ -1870,7 +1938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-<./images/speaker-3.jpeg, id=84, 1003.75pt x 1204.5pt>
+<./images/speaker-3.jpeg, id=107, 1003.75pt x 1204.5pt>
 File: ./images/speaker-3.jpeg Graphic file (type jpg)
 <use ./images/speaker-3.jpeg>
 Package pdftex.def Info: ./images/speaker-3.jpeg  used on input line 54. on inp
@@ -1899,14 +1967,14 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 58
 Package wrapfig Warning: Collision between wrapping environments on input line 
 61.
 
-<./images/nguyenp.png, id=88, 277.035pt x 401.5pt>
+<./images/nguyenp.png, id=111, 277.035pt x 401.5pt>
 File: ./images/nguyenp.png Graphic file (type png)
 <use ./images/nguyenp.png>
 Package pdftex.def Info: ./images/nguyenp.png  used on input line 64. on input 
 line 64.
 Package pdftex.def Info: Requested size: 124.20383pt x 180.0pt on input line 64
 .
-<./images/radel.png, id=89, 501.875pt x 627.34375pt>
+<./images/radel.png, id=112, 501.875pt x 627.34375pt>
 File: ./images/radel.png Graphic file (type png)
 <use ./images/radel.png>
 Package pdftex.def Info: ./images/radel.png  used on input line 76. on input li
@@ -1922,7 +1990,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 Package wrapfig Warning: Collision between wrapping environments on input line 
 84.
 
-<./images/piefer.jpg, id=90, 360.34625pt x 371.3875pt>
+<./images/piefer.jpg, id=113, 360.34625pt x 371.3875pt>
 File: ./images/piefer.jpg Graphic file (type jpg)
 <use ./images/piefer.jpg>
 Package pdftex.def Info: ./images/piefer.jpg  used on input line 87. on input l
@@ -2057,14 +2125,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--188
  []
 
 (socials.tex
-<./images/union_recroom1.png, id=107, 722.7pt x 542.025pt>
+<./images/union_recroom1.png, id=130, 722.7pt x 542.025pt>
 File: ./images/union_recroom1.png Graphic file (type png)
 <use ./images/union_recroom1.png>
 Package pdftex.def Info: ./images/union_recroom1.png  used on input line 11. on
  input line 11.
 Package pdftex.def Info: Requested size: 225.21626pt x 168.91096pt on input lin
 e 11.
-<./images/union_recroom2.png, id=108, 361.35pt x 236.68425pt>
+<./images/union_recroom2.png, id=131, 361.35pt x 236.68425pt>
 File: ./images/union_recroom2.png Graphic file (type png)
 <use ./images/union_recroom2.png>
 Package pdftex.def Info: ./images/union_recroom2.png  used on input line 15. on
@@ -2084,28 +2152,28 @@ ut line 18.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 18
 .
  [23]
-<./images/77club1.png, id=112, 361.35pt x 361.35pt>
+<./images/77club1.png, id=135, 361.35pt x 361.35pt>
 File: ./images/77club1.png Graphic file (type png)
 <use ./images/77club1.png>
 Package pdftex.def Info: ./images/77club1.png  used on input line 27. on input 
 line 27.
 Package pdftex.def Info: Requested size: 175.16862pt x 175.16632pt on input lin
 e 27.
-<./images/77club2.png, id=113, 1156.32pt x 650.43pt>
+<./images/77club2.png, id=136, 1156.32pt x 650.43pt>
 File: ./images/77club2.png Graphic file (type png)
 <use ./images/77club2.png>
 Package pdftex.def Info: ./images/77club2.png  used on input line 31. on input 
 line 31.
 Package pdftex.def Info: Requested size: 225.21626pt x 126.6795pt on input line
  31.
-<./images/pour_bros2.png, id=114, 451.6875pt x 679.338pt>
+<./images/pour_bros2.png, id=137, 451.6875pt x 679.338pt>
 File: ./images/pour_bros2.png Graphic file (type png)
 <use ./images/pour_bros2.png>
 Package pdftex.def Info: ./images/pour_bros2.png  used on input line 43. on inp
 ut line 43.
 Package pdftex.def Info: Requested size: 125.12099pt x 188.18163pt on input lin
 e 43.
-<./images/pour_bros1.png, id=115, 602.25pt x 401.70074pt>
+<./images/pour_bros1.png, id=138, 602.25pt x 401.70074pt>
 File: ./images/pour_bros1.png Graphic file (type png)
 <use ./images/pour_bros1.png>
 Package pdftex.def Info: ./images/pour_bros1.png  used on input line 47. on inp
@@ -2126,7 +2194,7 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 50
 .
  [24 <./images/union_recroom1.png> <./images/union_recroom2.png> <./images/77cl
 ub1.png> <./images/77club2.png>]
-<./images/ice_arena.png, id=120, 361.35pt x 148.1535pt>
+<./images/ice_arena.png, id=143, 361.35pt x 148.1535pt>
 File: ./images/ice_arena.png Graphic file (type png)
 <use ./images/ice_arena.png>
 Package pdftex.def Info: ./images/ice_arena.png  used on input line 57. on inpu
@@ -2136,16 +2204,16 @@ Package pdftex.def Info: Requested size: 400.38872pt x 164.1607pt on input line
 ))
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 103. on input l
-ine 103.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 107. on input l
+ine 107.
 Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
-03.
+07.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 103. on in
-put line 103.
+Package pdftex.def Info: images/illinoislogo.png  used on input line 107. on in
+put line 107.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
-3.
+7.
  [25 <./images/pour_bros2.png> <./images/pour_bros1.png> <./images/ice_arena.pn
 g>] (management.tex
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
@@ -2365,7 +2433,7 @@ put line 161.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 16
 1.
  [28]
-<./images/dotsons2.jpg, id=134, 418.56375pt x 493.845pt>
+<./images/dotsons2.jpg, id=157, 418.56375pt x 493.845pt>
 File: ./images/dotsons2.jpg Graphic file (type jpg)
 <use ./images/dotsons2.jpg>
 Package pdftex.def Info: ./images/dotsons2.jpg  used on input line 168. on inpu
@@ -2377,7 +2445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
-<./images/mettlerj.jpg, id=135, 963.6pt x 1445.4pt>
+<./images/mettlerj.jpg, id=158, 963.6pt x 1445.4pt>
 File: ./images/mettlerj.jpg Graphic file (type jpg)
 <use ./images/mettlerj.jpg>
 Package pdftex.def Info: ./images/mettlerj.jpg  used on input line 178. on inpu
@@ -2389,7 +2457,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
-<./images/stahlj.jpg, id=136, 796.9775pt x 704.6325pt>
+<./images/stahlj.jpg, id=159, 796.9775pt x 704.6325pt>
 File: ./images/stahlj.jpg Graphic file (type jpg)
 <use ./images/stahlj.jpg>
 Package pdftex.def Info: ./images/stahlj.jpg  used on input line 190. on input 
@@ -2405,7 +2473,7 @@ Overfull \hbox (28.41287pt too wide) in paragraph at lines 190--191
 Package wrapfig Warning: Collision between wrapping environments on input line 
 197.
 
-<./images/dinarij.jpg, id=137, 3035.34pt x 4047.12pt>
+<./images/dinarij.jpg, id=160, 3035.34pt x 4047.12pt>
 File: ./images/dinarij.jpg Graphic file (type jpg)
 <use ./images/dinarij.jpg>
 Package pdftex.def Info: ./images/dinarij.jpg  used on input line 200. on input
@@ -2425,14 +2493,14 @@ put line 203.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 20
 3.
 [29 <./images/dotsons2.jpg> <./images/mettlerj.jpg>]
-<./images/sheheej.jpg, id=141, 1506.62875pt x 1950.28625pt>
+<./images/sheheej.jpg, id=164, 1506.62875pt x 1950.28625pt>
 File: ./images/sheheej.jpg Graphic file (type jpg)
 <use ./images/sheheej.jpg>
 Package pdftex.def Info: ./images/sheheej.jpg  used on input line 210. on input
  line 210.
 Package pdftex.def Info: Requested size: 139.03912pt x 180.0pt on input line 21
 0.
-<./images/cheeg.jpg, id=142, 1720.4275pt x 2316.655pt>
+<./images/cheeg.jpg, id=165, 1720.4275pt x 2316.655pt>
 File: ./images/cheeg.jpg Graphic file (type jpg)
 <use ./images/cheeg.jpg>
 Package pdftex.def Info: ./images/cheeg.jpg  used on input line 221. on input l
@@ -2444,7 +2512,7 @@ Package pdftex.def Info: Requested size: 133.67302pt x 180.0pt on input line 22
 Package wrapfig Warning: Collision between wrapping environments on input line 
 228.
 
-<./images/fairhurstr.jpg, id=143, 390.45876pt x 767.86874pt>
+<./images/fairhurstr.jpg, id=166, 390.45876pt x 767.86874pt>
 File: ./images/fairhurstr.jpg Graphic file (type jpg)
 <use ./images/fairhurstr.jpg>
 Package pdftex.def Info: ./images/fairhurstr.jpg  used on input line 231. on in
@@ -2468,7 +2536,7 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 23
 Package wrapfig Warning: Collision between wrapping environments on input line 
 239.
 
-<./images/golbag.jpg, id=148, 4047.12pt x 3035.34pt>
+<./images/golbag.jpg, id=171, 4047.12pt x 3035.34pt>
 File: ./images/golbag.jpg Graphic file (type jpg)
 <use ./images/golbag.jpg>
 Package pdftex.def Info: ./images/golbag.jpg  used on input line 242. on input 
@@ -2521,7 +2589,7 @@ put line 258.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 25
 8.
  [32 <./images/golbag.jpg>]
-<./images/gaughann.JPG, id=155, 710.655pt x 946.53625pt>
+<./images/gaughann.JPG, id=178, 710.655pt x 946.53625pt>
 File: ./images/gaughann.JPG Graphic file (type jpg)
 <use ./images/gaughann.JPG>
 Package pdftex.def Info: ./images/gaughann.JPG  used on input line 264. on inpu
@@ -2537,14 +2605,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--267
 Package wrapfig Warning: Collision between wrapping environments on input line 
 272.
 
-<./images/kdilan.jpg, id=156, 1501.61pt x 2328.7pt>
+<./images/kdilan.jpg, id=179, 1501.61pt x 2328.7pt>
 File: ./images/kdilan.jpg Graphic file (type jpg)
 <use ./images/kdilan.jpg>
 Package pdftex.def Info: ./images/kdilan.jpg  used on input line 275. on input 
 line 275.
 Package pdftex.def Info: Requested size: 116.0528pt x 180.0pt on input line 275
 .
-<./images/davisg.jpg, id=157, 1084.05pt x 1626.075pt>
+<./images/davisg.jpg, id=180, 1084.05pt x 1626.075pt>
 File: ./images/davisg.jpg Graphic file (type jpg)
 <use ./images/davisg.jpg>
 Package pdftex.def Info: ./images/davisg.jpg  used on input line 286. on input 
@@ -2555,7 +2623,7 @@ Package pdftex.def Info: Requested size: 119.99022pt x 180.0pt on input line 28
 Package wrapfig Warning: Collision between wrapping environments on input line 
 293.
 
-<./images/moranb.jpg, id=158, 1652.1725pt x 1899.095pt>
+<./images/moranb.jpg, id=181, 1652.1725pt x 1899.095pt>
 File: ./images/moranb.jpg Graphic file (type jpg)
 <use ./images/moranb.jpg>
 Package pdftex.def Info: ./images/moranb.jpg  used on input line 296. on input 
@@ -2575,7 +2643,7 @@ put line 299.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 29
 9.
 [33 <./images/gaughann.JPG> <./images/kdilan.jpg>]
-<./images/ballaa.jpg, id=162, 963.6pt x 963.6pt>
+<./images/ballaa.jpg, id=185, 963.6pt x 963.6pt>
 File: ./images/ballaa.jpg Graphic file (type jpg)
 <use ./images/ballaa.jpg>
 Package pdftex.def Info: ./images/ballaa.jpg  used on input line 309. on input 
@@ -2591,7 +2659,7 @@ Overfull \hbox (4.82576pt too wide) in paragraph at lines 309--310
 Package wrapfig Warning: Collision between wrapping environments on input line 
 316.
 
-<./images/ryann.jpg, id=163, 569.12625pt x 495.8525pt>
+<./images/ryann.jpg, id=186, 569.12625pt x 495.8525pt>
 File: ./images/ryann.jpg Graphic file (type jpg)
 <use ./images/ryann.jpg>
 Package pdftex.def Info: ./images/ryann.jpg  used on input line 319. on input l
@@ -2642,33 +2710,6 @@ Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 47
  [36])
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 105. on input l
-ine 105.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
-05.
-File: images/illinoislogo.png Graphic file (type png)
-<use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 105. on in
-put line 105.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
-5.
- [37] (website.tex)
-File: images/ansuiuc.png Graphic file (type png)
-<use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 107. on input l
-ine 107.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
-07.
-File: images/illinoislogo.png Graphic file (type png)
-<use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 107. on in
-put line 107.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
-7.
- [38] (budget.tex
-(banking.tex))
-File: images/ansuiuc.png Graphic file (type png)
-<use images/ansuiuc.png>
 Package pdftex.def Info: images/ansuiuc.png  used on input line 109. on input l
 ine 109.
 Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
@@ -2679,20 +2720,7 @@ Package pdftex.def Info: images/illinoislogo.png  used on input line 109. on in
 put line 109.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 10
 9.
- [39] (liability.tex
-File: images/ansuiuc.png Graphic file (type png)
-<use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 30. on input li
-ne 30.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 3
-0.
-File: images/illinoislogo.png Graphic file (type png)
-<use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 30. on inp
-ut line 30.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 30
-.
- [40])
+ [37] (website.tex)
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
 Package pdftex.def Info: images/ansuiuc.png  used on input line 111. on input l
@@ -2705,43 +2733,135 @@ Package pdftex.def Info: images/illinoislogo.png  used on input line 111. on in
 put line 111.
 Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 11
 1.
- [41] (conflict.tex) (judging.tex)
-(schedule.tex) (building.tex) (locations.tex) (staffreq.tex) (facultyletter.tex
-) (petition.tex)
+ [38] (budget.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+(C:\Users\reidm\AppData\Roaming\MiKTeX\2.9\tex\latex\gfsdidot\ts1udidot.fd)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `udidot' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<./images/sponsors1.png, id=203, 469.755pt x 383.031pt>
+File: ./images/sponsors1.png Graphic file (type png)
+<use ./images/sponsors1.png>
+Package pdftex.def Info: ./images/sponsors1.png  used on input line 64. on inpu
+t line 64.
+Package pdftex.def Info: Requested size: 375.36299pt x 306.06285pt on input lin
+e 64.
 File: images/ansuiuc.png Graphic file (type png)
 <use images/ansuiuc.png>
-Package pdftex.def Info: images/ansuiuc.png  used on input line 123. on input l
-ine 123.
-Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
-23.
+Package pdftex.def Info: images/ansuiuc.png  used on input line 66. on input li
+ne 66.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 6
+6.
 File: images/illinoislogo.png Graphic file (type png)
 <use images/illinoislogo.png>
-Package pdftex.def Info: images/illinoislogo.png  used on input line 123. on in
-put line 123.
-Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 12
+Package pdftex.def Info: images/illinoislogo.png  used on input line 66. on inp
+ut line 66.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 66
+.
+
+[39]
+<./images/sponsors2.png, id=209, 467.94826pt x 383.031pt>
+File: ./images/sponsors2.png Graphic file (type png)
+<use ./images/sponsors2.png>
+Package pdftex.def Info: ./images/sponsors2.png  used on input line 69. on inpu
+t line 69.
+Package pdftex.def Info: Requested size: 375.36299pt x 307.2493pt on input line
+ 69.
+ (banking.tex
+File: images/ansuiuc.png Graphic file (type png)
+<use images/ansuiuc.png>
+Package pdftex.def Info: images/ansuiuc.png  used on input line 4. on input lin
+e 4.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 4
+.
+File: images/illinoislogo.png Graphic file (type png)
+<use images/illinoislogo.png>
+Package pdftex.def Info: images/illinoislogo.png  used on input line 4. on inpu
+t line 4.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 4.
+
+ [40 <./images/sponsors1.png> <./images/sponsors2.png>]))
+File: images/ansuiuc.png Graphic file (type png)
+<use images/ansuiuc.png>
+Package pdftex.def Info: images/ansuiuc.png  used on input line 113. on input l
+ine 113.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
+13.
+File: images/illinoislogo.png Graphic file (type png)
+<use images/illinoislogo.png>
+Package pdftex.def Info: images/illinoislogo.png  used on input line 113. on in
+put line 113.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 11
 3.
- [42] (main.aux) ) 
+
+[41] (liability.tex
+File: images/ansuiuc.png Graphic file (type png)
+<use images/ansuiuc.png>
+Package pdftex.def Info: images/ansuiuc.png  used on input line 30. on input li
+ne 30.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 3
+0.
+File: images/illinoislogo.png Graphic file (type png)
+<use images/illinoislogo.png>
+Package pdftex.def Info: images/illinoislogo.png  used on input line 30. on inp
+ut line 30.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 30
+.
+ [42])
+File: images/ansuiuc.png Graphic file (type png)
+<use images/ansuiuc.png>
+Package pdftex.def Info: images/ansuiuc.png  used on input line 115. on input l
+ine 115.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
+15.
+File: images/illinoislogo.png Graphic file (type png)
+<use images/illinoislogo.png>
+Package pdftex.def Info: images/illinoislogo.png  used on input line 115. on in
+put line 115.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 11
+5.
+ [43] (conflict.tex) (judging.tex) (schedule.tex)
+(building.tex) (locations.tex) (staffreq.tex) (facultyletter.tex) (petition.tex
+)
+File: images/ansuiuc.png Graphic file (type png)
+<use images/ansuiuc.png>
+Package pdftex.def Info: images/ansuiuc.png  used on input line 127. on input l
+ine 127.
+Package pdftex.def Info: Requested size: 135.50752pt x 36.135pt on input line 1
+27.
+File: images/illinoislogo.png Graphic file (type png)
+<use images/illinoislogo.png>
+Package pdftex.def Info: images/illinoislogo.png  used on input line 127. on in
+put line 127.
+Package pdftex.def Info: Requested size: 27.55771pt x 36.135pt on input line 12
+7.
+ [44] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 30171 strings out of 493312
- 590604 string characters out of 3138899
- 865201 words of memory out of 3000000
- 32918 multiletter control sequences out of 15000+200000
- 595777 words of font info for 273 fonts, out of 3000000 for 9000
+ 30829 strings out of 493312
+ 601657 string characters out of 3138899
+ 877059 words of memory out of 3000000
+ 33547 multiletter control sequences out of 15000+200000
+ 597995 words of font info for 279 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,16n,63p,1697b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,18n,63p,1697b,754s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/gf
-sdidot/didotOT1it.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvip
-s/gfsdidot/didot.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
-/gfsdidot/didottabnums.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc
-/dvips/gfsdidot/didotOT1.enc}<C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/t
-ype1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/reidm/AppData/Roaming/MiKTeX/2
-.9/fonts/type1/public/gfsdidot/GFSDidot-BoldItalic.pfb><C:/Users/reidm/AppData/
-Roaming/MiKTeX/2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pfb><C:/Users/re
-idm/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/gfsdidot/GFSDidot.pfb><C:/Use
-rs/reidm/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pxfonts/pxsy.pfb>
-Output written on main.pdf (43 pages, 37178604 bytes).
+sdidot/didotTS1.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/
+gfsdidot/didotOT1it.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dv
+ips/gfsdidot/didot.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvi
+ps/gfsdidot/didottabnums.enc}{C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts/e
+nc/dvips/gfsdidot/didotOT1.enc}<C:/Users/reidm/AppData/Roaming/MiKTeX/2.9/fonts
+/type1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/reidm/AppData/Roaming/MiKTeX
+/2.9/fonts/type1/public/gfsdidot/GFSDidot-BoldItalic.pfb><C:/Users/reidm/AppDat
+a/Roaming/MiKTeX/2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pfb><C:/Users/
+reidm/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/gfsdidot/GFSDidot.pfb><C:/U
+sers/reidm/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pxfonts/pxsy.pfb>
+Output written on main.pdf (45 pages, 37473248 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
+ 254 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 24789 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 25843 words of extra memory for PDF output out of 29859 (max. 10000000)
 
