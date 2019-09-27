@@ -15,15 +15,17 @@
 \usepackage[toc,page]{appendix} % creates an appendix
 \usepackage{fancyhdr}
 \usepackage{pdfpages}
+\usepackage{multirow}
+\usepackage{array}
 % \usepackage{pagecounting}
 % \usepackage[dvips]{color}
-
+\newcommand{\STAB}[1]{\begin{tabular}{@{}c@{}}#1\end{tabular}}
 \newcommand{\illinoislogo}{\includegraphics[height=0.5in]{images/illinoislogo.png}}
 \newcommand{\anslogo}{\hspace{-4mm}\includegraphics[height=0.5in]{images/ansuiuc.png}}
 \newcommand{\anssite}{ans.npre.illinois.edu}
 % \usepackage{background}
 \usepackage{float}
-\usepackage[top=2cm, bottom=2.75cm, outer=2cm, inner=2cm]{geometry}
+\usepackage[top=2cm, bottom=2cm, outer=2cm, inner=2cm]{geometry}
 \setcounter{tocdepth}{3}
 % \setcounter{secnumdepth}{3}
 \usepackage{environ}
@@ -62,7 +64,7 @@
  
        \Huge\color{white}\textbf{Saving the World One Atom at a Time}
  
-       \vspace{0.1cm}
+       % \vspace{0.1cm}
        Nuclear, Plasma, and Radiological Engineering
  
        \vfill
