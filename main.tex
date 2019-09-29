@@ -1,6 +1,7 @@
 \documentclass[10pt, letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{caption}
 \usepackage{subcaption}
 \usepackage{lipsum}
 \usepackage{wrapfig}
@@ -20,7 +21,7 @@
 % \usepackage{pagecounting}
 % \usepackage[dvips]{color}
 \newcommand{\STAB}[1]{\begin{tabular}{@{}c@{}}#1\end{tabular}}
-\newcommand{\illinoislogo}{\includegraphics[height=0.5in]{images/illinoislogo.png}}
+\newcommand{\illinoislogo}{\includegraphics[height=0.5in]{images/block-I.png}}
 \newcommand{\anslogo}{\hspace{-4mm}\includegraphics[height=0.5in]{images/ansuiuc.png}}
 \newcommand{\anssite}{ans.npre.illinois.edu}
 % \usepackage{background}
@@ -45,9 +46,9 @@
 \usetikzlibrary{trees}
 \usetikzlibrary{shapes.geometric, arrows}
 
-\tikzstyle{chair} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black,thick, fill=blue!50, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
-\tikzstyle{director} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=orange!70, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
-\tikzstyle{coordinator} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=white!30, execute at begin node={\begin{varwidth}{2.5cm}},execute at end node={\end{varwidth}}]
+\tikzstyle{chair} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black,thick, fill=blue!50, execute at begin node={\begin{varwidth}{3.5cm}},execute at end node={\end{varwidth}}]
+\tikzstyle{director} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=orange!70, execute at begin node={\begin{varwidth}{3.5cm}},execute at end node={\end{varwidth}}]
+\tikzstyle{coordinator} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,text centered, draw=black, fill=white!30, execute at begin node={\begin{varwidth}{3.5cm}},execute at end node={\end{varwidth}}]
 % \tikzstyle{arrow} = [thick,--,>=stealth]
 
 
@@ -56,7 +57,7 @@
 % DO NOT EDIT THIS SECTION
 % ======================================================================================================
 \begin{titlepage}
-\AddToShipoutPictureBG*{\includegraphics[angle=90, width=\paperwidth,height=\paperheight]{earth1.png}};
+\AddToShipoutPictureBG*{\includegraphics[angle=90,width=\paperwidth,height=\paperheight]{earth1.png}}
 
    \begin{center}
 
@@ -65,7 +66,8 @@
        \Huge\color{white}\textbf{Saving the World One Atom at a Time}
  
        % \vspace{0.1cm}
-       Nuclear, Plasma, and Radiological Engineering
+       % Nuclear, Plasma, and Radiological Engineering
+       % \includegraphics[width=0.4\textwidth]{ans_sc_logo3.png}
  
        \vfill
        \vspace{8.5cm}
@@ -104,7 +106,6 @@
 \input{uiuc}
 \newpage
 \input{conflog}
-\newpage
 \input{proglog}
 \newpage
 \input{management}
@@ -112,7 +113,7 @@
 \input{website}
 \newpage
 \input{budget}
-\newpage
+% \newpage
 \input{liability}
 \newpage
 % Appendices
