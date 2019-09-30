@@ -24,12 +24,12 @@
 % \usepackage{pagecounting}
 % \usepackage[dvips]{color}
 \newcommand{\STAB}[1]{\begin{tabular}{@{}c@{}}#1\end{tabular}}
-\newcommand{\illinoislogo}{\includegraphics[height=0.5in]{images/block-I.png}}
+\newcommand{\illinoislogo}{\includegraphics[height=0.35in]{images/block-I.png}}
 \newcommand{\anslogo}{\hspace{-4mm}\includegraphics[height=0.5in]{images/ansuiuc.png}}
 \newcommand{\anssite}{ans.npre.illinois.edu}
 % \usepackage{background}
 \usepackage{float}
-\usepackage[top=2cm, bottom=2cm, outer=2cm, inner=2cm]{geometry}
+\usepackage[margin=2cm,headheight=25pt]{geometry}
 \setcounter{tocdepth}{3}
 % \setcounter{secnumdepth}{3}
 \usepackage{environ}
@@ -91,7 +91,7 @@
 \clearpage
 \newpage
 
-\setlength{\headheight}{25pt}
+%\setlength{\headheight}{40pt}
 \pagestyle{fancy}
 \lhead{\anslogo}
 \rhead{\illinoislogo}
@@ -99,6 +99,7 @@
 % \fancyhead{}
 
 \includepdf[pages=-]{./documents/chair_letter.pdf}
+\includepdf[pages=-]{./documents/advisor_support.pdf}
 
 \newpage
 \tableofcontents
