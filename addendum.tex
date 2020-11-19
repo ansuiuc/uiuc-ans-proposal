@@ -1,1 +1,54 @@
 \section*{Proposal Updates for 2020}
+
+
+A few changes to the original ANS-UIUC proposal in response to the new conference date in 2022. Most of the changes involve updates to conference management structure, other changes are minimal but will be noted here.
+
+\subsection*{Planning Committee Changes}
+
+An overview of the changes to the planning committee are shown in Figure \ref{fig:newmgmt}. Notably, the roles of \textit{Technical Subcommittee Chair} and \textit{Logistics Subcommittee Chair} have been absorbed by the Technical Chair and the General Chair, respectively. The responsibilities of the  \textit{Sponsorship Coordinator} have been absorbed by the Financial Chair.
+
+\begin{figure}[H]
+\begin{center}
+	\begin{tikzpicture}
+		\node (gen chair) [chair] {General Co-Chair (Sam Dotson)};
+		\node (tech chair) [chair, right of = gen chair, xshift = 5cm] {Technical Co-Chair (Jeremy Mettler)};
+		\node (div chair) [chair, left of = gen chair, xshift = -5cm] {Diversity Co-Chair (Amanda Bachmann)};
+
+		\node (prog coord) [coordinator, below of = gen chair, xshift=-1.75cm, yshift = -2cm] {Program Coordinator (Dilan K.)};
+    \node (med coord) [coordinator, below of = div chair, xshift = -0.5cm, yshift = -2.0cm] {Media Coordinator (Nathan Ryan)};
+		\node (hat coord) [coordinator, below of = prog coord, yshift = -2cm] {Hotels and Transport (Gavin Davis)};
+		\node (hoa coord) [coordinator, below of = hat coord, yshift = -2cm] {Hospitality and Accomodations\\ (Nataly Panczyk)};
+		\node (tours coord) [coordinator, below of = hoa coord, yshift = -2cm] {Tours Coordinator (Jake Mitstifer)};
+
+
+		\node (work coord) [coordinator, below of = tech chair, xshift=0.5cm, yshift = -2cm] {Workshops Coordinator\\(Roberto Fairhurst)};
+		\node (sesh coord) [coordinator, below of = work coord, yshift = -2cm] {Sessions Coordinator (Joshua Hoffman)};
+		\node (cf coord) [coordinator, below of = sesh coord, yshift = -2cm] {Career Fair Coordinator (Greg Golba)};
+
+		\node (fin chair) [director, below of = tech chair, xshift = -3.75cm, yshift = -2cm] {Financial Chair\\(Stephen Armstrong)};
+		\node (reg coord) [coordinator, below of = fin chair, yshift = -2cm] {Registration Coordinator\\(Jasmine Dinari)};
+
+		\draw  (gen chair) -- (tech chair);
+		\draw  (gen chair) -- (div chair);
+
+		\draw  (gen chair) -- (prog coord);
+		\draw  (prog coord) -- (hat coord);
+		\draw  (hat coord) -- (hoa coord);
+		\draw  (hoa coord) -- (tours coord);
+		\draw  (gen chair) -- (med coord);
+		\draw  (tech chair) -- (fin chair);
+		\draw  (gen chair) -- (fin chair);
+		\draw  (fin chair) -- (reg coord);
+		\draw  (tech chair) -- (work coord);
+		\draw  (work coord) -- (sesh coord);
+		\draw  (sesh coord) -- (cf coord);
+
+	\end{tikzpicture}
+  \caption{Note: The hierarchy of responsibility is denoted by color, not necessarily by the position on the chart.}
+  \label{fig:newmgmt}
+\end{center}
+\end{figure}
+
+% ===========================================================================
+\subsection{Updated Biographies}
+\input{new_biographies}
